@@ -1,0 +1,99 @@
+.a {
+    animation: des 1s linear infinite;
+}
+@keyframes des {
+    0% {
+        color: red;
+    }
+
+    25% {
+        color: blue;
+    }
+
+    50% {
+        color: yellow;
+    }
+
+    75% {
+        color: #2EBF75;
+    }
+}
+.b {
+    animation: desi 1s linear infinite;
+}
+
+@keyframes desi {
+    0% {
+        color: #2EBF75;
+    }
+
+    25% {
+        color: red;
+    }
+
+    50% {
+        color: blue;
+    }
+
+    75% {
+        color: yellow;
+    }
+
+}
+.c {
+    animation: desig 1s linear infinite;
+}
+@keyframes desig {
+    0% {
+        color: yellow;
+    }
+
+    25% {
+        color: #2EBF75;
+    }
+
+    50% {
+        color: red;
+    }
+
+    75% {
+        color: blue;
+    }
+}
+
+.d {
+    animation: design 1s linear infinite;
+}
+@keyframes design {
+    0% {
+        color: blue;
+    }
+
+    25% {
+        color: yellow;
+    }
+
+    50% {
+        color: #2EBF75;
+    }
+
+    75% {
+        color: red;
+    }
+}
+
+.navbar-toggler:hover,
+.navbar-toggler:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.navbar-toggler{
+    margin-top: -0.5px;
+    margin-right: 10px;
+}
+.nav-item{
+    margin-left: 25px;
+}
+
+
