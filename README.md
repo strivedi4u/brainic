@@ -79,7 +79,6 @@ Branic/
 
 ## 📸 Screenshots
 
-> _Add your screenshots in `frontend/public` or link here!_
 
 ![Home Page](https://github.com/strivedi4u/brainic/blob/master/frontend/image.png)
 ![Help Interface](https://github.com/strivedi4u/brainic/blob/master/image.png)
