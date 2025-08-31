@@ -81,9 +81,9 @@ Branic/
 
 > _Add your screenshots in `frontend/public` or link here!_
 
-![Home Page](frontend/public/homepage-screenshot.png)
-![Chat Interface](frontend/public/chat-screenshot.png)
-![Image Generation](frontend/public/imagegen-screenshot.png)
+![Home Page](https://github.com/strivedi4u/brainic/blob/master/frontend/image.png)
+![Help Interface](https://github.com/strivedi4u/brainic/blob/master/image.png)
+
 
 ---
 
