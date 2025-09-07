@@ -15,6 +15,34 @@ Brainic is an advanced AI-powered platform that integrates multiple generative A
 
 ---
 
+## 📊 Project Presentation
+
+Get a quick, visual overview of the project’s goals, features, and design.
+
+<a href="https://www.canva.com/design/DAFW9z9vPkE/geTuSZ4Yj9UiXgMNC8MCtQ/view?utm_content=DAFW9z9vPkE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7b2bb999db" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="Canva Logo" width="16" style="vertical-align:middle; margin-right:6px;"/>
+  <b>View the Presentation on Canva</b>
+</a>
+
+---
+
+### 📖 Presentation Contents
+
+- **Project Overview & Vision**
+- **Key Features & Benefits**
+- **Tech Stack**
+- **Architecture & Diagrams**
+- **Screenshots**
+- **Contact & Author Info**
+
+---
+
+> [Click here to open the Canva presentation directly.](https://www.canva.com/design/DAFW9z9vPkE/geTuSZ4Yj9UiXgMNC8MCtQ/view?utm_content=DAFW9z9vPkE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7b2bb999db)
+
+---
+
+**Feedback and collaboration are always welcome!**
+
 ## 🏗️ Project Structure
 
 ```
